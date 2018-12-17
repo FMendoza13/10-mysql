@@ -15,3 +15,13 @@ CREATE DATABASE bamazon;
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES
+('Snake Oil', 'Health-Medicine', 23.99, 23),
+('Moonshine', 'Spirits', 14.00, 56),
+('Samurai Sword', 'Cutlery', 99.99, 200),
+('Double-Action Revolver - Gold', 'Guns & Ammo', 269.95, 48),
+('Bandolier', 'Armor & Accessories', 19.49, 143),
+('Derby Hat', 'Bamazon Fashion', 21.99, 78),
+('Long Johns - White', 'Amazon Fashion', 9.99, 56),
+('Bowie Knife', 'Cutlery', 35.99, 30),
+('Leather Saddle - Chestnut Brown', 'Sports & Outdoors', 62.99, 77),
+('Double Barrel Sawed-Off Shotgun', 'Guns & Ammo', 109.99, 60);
