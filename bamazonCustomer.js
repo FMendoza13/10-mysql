@@ -22,7 +22,7 @@ connection.connect((err) => {
 
 // Global Variables
 
-var itemList = [];
+var itemsList = [];
 var chosenItem = [];
 
 // Functions
