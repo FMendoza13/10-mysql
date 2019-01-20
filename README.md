@@ -16,10 +16,13 @@ If you do not have MySQL database already set up on your machine, visit the MySQ
 Run Application:
 Once you have the Bamazon database set up, run these commands in the command line:
 
-git clone https://github.com/FMendoza13/10-mysql.git
-cd Bamazon
-npm install
-node bamazonCustomer.js
+- git clone https://github.com/FMendoza13/10-mysql.git
+
+- cd Bamazon
+
+- npm install
+
+- node bamazonCustomer.js
 
 # Author
 Fernando Mendoza
